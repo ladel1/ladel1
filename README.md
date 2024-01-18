@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ladel1
 - 👀 I’m interested in artificial intelligence, web development...
-- 🌱 I’m currently learning Unity 3D :) 
+- 🌱 I’m currently learning Unreal Engine 5 :) 
 
 
 <!---
