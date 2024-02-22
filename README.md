@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ladel1
-- 👀 I’m interested in artificial intelligence, web development...
+- 👀 I’m interested in artificial intelligence, web development and game development...
 - 🌱 I’m currently learning Unreal Engine 5 :) 
 
 
